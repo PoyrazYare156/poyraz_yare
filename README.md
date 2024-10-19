@@ -13,4 +13,4 @@ Aşağıdaki adımları izleyerek aracı Linux ortamında kolayca kurabilir ve �
 1. **GitHub Repository'sini klonlayın**:
 
    ```bash
-   git clone https://github.com/kullaniciadi/poyrazyare.git
+   git clone https://github.com/PoyrazYare156/poyraz_yare.git
